@@ -8,8 +8,13 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
+<<<<<<< HEAD
+      "cwd": "d:/oops_c++allcodes",
+      "program": "d:/oops_c++allcodes/build/Debug/outDebug",
+=======
       "cwd": ".",
       "program": "build/Debug/outDebug",
+>>>>>>> cca294551079d2dbf7f377b0c01497c450e4fdd8
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
